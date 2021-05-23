@@ -1,0 +1,65 @@
+[
+  {
+    "serialno": "1",
+    "name": "Gaurav",
+    "age": 21,
+    "zipcode": "127028",
+    "city": "Bahal",
+    "county": "India",
+    "profession": "Software Engineer"
+  },
+  {
+    "serialno": "2",
+    "name": "Joe",
+    "age": 37,
+    "zipcode": "02881",
+    "city": "Kingston",
+    "county": "Washington",
+    "profession": "Doctor"
+  },
+  {
+    "serialno": "3",
+    "name": "Peter",
+    "age": 27,
+    "zipcode": "03470",
+    "city": "Winchester",
+    "county": "Cheshire",
+    "profession": "Lawyer"
+  },
+  {
+    "serialno": "4",
+    "name": "Adanne",
+    "age": 49,
+    "zipcode": "14477",
+    "city": "Kent",
+    "county": "Orleans",
+    "profession": "Accountant"
+  },
+  {
+    "serialno": "5",
+    "name": "Willian",
+    "age": 46,
+    "zipcode": "28652",
+    "city": "Minneapolis",
+    "county": "Avery",
+    "profession": "Business Man"
+  },
+  {
+    "serialno": "6",
+    "name": "Joseph",
+    "age": 49,
+    "zipcode": "98101",
+    "city": "Seattle",
+    "county": "King",
+    "profession": "Government Employee"
+  },
+  {
+    "serialno": "7",
+    "name": "Ana",
+    "age": 24,
+    "zipcode": "03839",
+    "city": "Rochester",
+    "county": "United States",
+    "profession": "Teacher"
+  }
+]
